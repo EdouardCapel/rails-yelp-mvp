@@ -3,7 +3,9 @@
 one:
   content: MyString
   rating: 1
+  restaurant: one
 
 two:
   content: MyString
   rating: 1
+  restaurant: two
